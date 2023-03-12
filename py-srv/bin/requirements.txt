@@ -1,0 +1,4 @@
+elasticsearch>7,<8
+sqlalchemy-cockroachdb
+psycopg2
+sqlalchemy
